@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\bin\Debug\netcoreapp3.1\if 문.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if 문\obj\Debug\netcoreapp3.1\if 문.genruntimeconfig.cache

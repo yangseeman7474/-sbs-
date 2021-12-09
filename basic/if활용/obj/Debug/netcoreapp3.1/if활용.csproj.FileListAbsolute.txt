@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\bin\Debug\netcoreapp3.1\if활용.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\if활용\obj\Debug\netcoreapp3.1\if활용.genruntimeconfig.cache

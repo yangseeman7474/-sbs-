@@ -46,7 +46,7 @@ namespace project
         {
             //Console ?
             //using 으로 선언했던 system 이라는 namespace 안에 있는 클래스
-            Console.WriteLine('안녕 월드!');           ;
+            Console.WriteLine( " 안녕 월드!");           
         }
     }
 }

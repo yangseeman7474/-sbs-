@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\bin\Debug\netcoreapp3.1\캐릭터만들기.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\캐릭터만들기\obj\Debug\netcoreapp3.1\캐릭터만들기.genruntimeconfig.cache

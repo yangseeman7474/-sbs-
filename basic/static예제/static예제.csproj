@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\오크만들기\오크만들기.csproj" />
-  </ItemGroup>
-
 </Project>

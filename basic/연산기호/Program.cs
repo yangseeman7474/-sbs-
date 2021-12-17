@@ -14,6 +14,7 @@ namespace 연산기호
 
             // 더하기
             c= a+b;
+            c = 연산기호_연습.Sum(a, b);
             Console.WriteLine(c);
             //빼기
             c = a - b;

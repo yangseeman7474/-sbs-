@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\bin\Debug\netcoreapp3.1\연산기호.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\연산기호\obj\Debug\netcoreapp3.1\연산기호.csproj.AssemblyReference.cache

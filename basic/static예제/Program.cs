@@ -39,7 +39,11 @@ namespace static예제
                 Console.WriteLine($"{name}의 휴식상태: 일하는중");
             }
         }
-        
+        // static 키워드는 정적 성질을 부여하는 키워드. 
+
+        // 정적 이라는거는 메모리에 할당할 수가 없다라는 뜻.  
+
+        // 반대로 동적은 메모리 할당이 가능하다. 
         static public string typeName;
         static public void SayTypeName()
         {
@@ -58,7 +62,6 @@ namespace static예제
         {
             //static class를 쓰는 이유
             //객체를 찍어내는것이아니라, 정보,기능,개념등이 유일하게 필요한 경우사용
-            //
         }
     }
 }

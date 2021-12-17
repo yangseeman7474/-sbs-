@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "객체인스턴트화", "�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "인스턴스화예제", "인스턴스화예제\인스턴스화예제.csproj", "{37BD1C60-BD94-4847-A4D6-3690EEF66280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "오크만들기", "오크만들기\오크만들기.csproj", "{2B5F6E90-23F7-4B76-A05A-D2CC29CA3C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "오크만들기", "오크만들기\오크만들기.csproj", "{2B5F6E90-23F7-4B76-A05A-D2CC29CA3C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static예제", "static예제\static예제.csproj", "{C0BE9545-A5E3-4131-A8B0-7513D7398E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static예제", "static예제\static예제.csproj", "{C0BE9545-A5E3-4131-A8B0-7513D7398E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "연산기호", "연산기호\연산기호.csproj", "{38F0195B-6293-47C0-BDA8-511B6AB30E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C0BE9545-A5E3-4131-A8B0-7513D7398E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BE9545-A5E3-4131-A8B0-7513D7398E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BE9545-A5E3-4131-A8B0-7513D7398E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F0195B-6293-47C0-BDA8-511B6AB30E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F0195B-6293-47C0-BDA8-511B6AB30E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F0195B-6293-47C0-BDA8-511B6AB30E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F0195B-6293-47C0-BDA8-511B6AB30E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

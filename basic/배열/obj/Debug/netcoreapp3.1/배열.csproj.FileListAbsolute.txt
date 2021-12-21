@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\bin\Debug\netcoreapp3.1\배열.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\배열\obj\Debug\netcoreapp3.1\배열.genruntimeconfig.cache

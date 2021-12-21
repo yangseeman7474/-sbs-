@@ -4,12 +4,19 @@ using System.Text;
 
 namespace 연산기호
 {
-    class 연산기호_연습
+    public class 연산기호_연습
     {
         //산술연산
 
         //덧셈
         static public int Sum(int a,int b)
+        {
+            return a + b;
+        }
+        //함수 오버로딩
+        //같은 기능을 수행하는 함수의 이름을 똑같이하고
+        //인수의 타입만 변경하면 같은 이름의 함수를 여러게 만들 수 있는 기능
+        static public float Sum(float a, float b)
         {
             return a + b;
         }

@@ -7,15 +7,19 @@ namespace 연산기호
         static int a =14;
         static int b = 5;
         static int c;
+        static float a_f = 13.0f;
+        static float b_f = 2.0f;
+        static float c_f;
         static void Main(string[] args)
         {
             // 산술 연산
             // 더하기 ,빼기 ,나누기 ,곱하기 ,나머지
 
             // 더하기
-            c= a+b;
+            c = a + b;
             c = 연산기호_연습.Sum(a, b);
             Console.WriteLine(c);
+            Console.WriteLine(연산기호_연습.Sum(a_f, b_f));
             //빼기
             c = a - b;
             Console.WriteLine(c);
@@ -43,7 +47,7 @@ namespace 연산기호
             //관계연산의 결과가 참이면 true 거짓이면 false를 반환
 
             //같음 비교
-            Console.WriteLine( a == b);
+            Console.WriteLine(a == b);
             //다름 비교
             Console.WriteLine(a != b);
             //크다
@@ -114,15 +118,15 @@ namespace 연산기호
             //or
             Console.WriteLine(a | b);
             //and
-            Console.WriteLine(a&b);
+            Console.WriteLine(a & b);
             //xor
-            Console.WriteLine(a^b);
+            Console.WriteLine(a ^ b);
             //not
             Console.WriteLine(~a);
             //shift-left 
             Console.WriteLine(a << 2);//2=[비트얼만큼옴길건가])
             //shift-right
-            Console.WriteLine(a >> 1);//1=[비트얼만큼옴길건가)
+            Console.WriteLine(a >> 1);//1=[비트얼만큼옴길건가])
         }
     }
 }

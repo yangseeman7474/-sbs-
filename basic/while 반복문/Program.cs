@@ -33,6 +33,23 @@ namespace while_반복문
             {
                 Console.WriteLine(arr_PersonName[count]);
                 count++;
+                
+            }
+
+            //break를 사용한 while문 활용 예제
+            //이렇게 사용하는건 않좋다
+            while (true)
+            {
+                if (count < length)
+                {
+                    Console.WriteLine(arr_PersonName[count]);
+                }
+                else
+                {
+                    break;
+                }
+                count++;
+                
             }
         }
     }

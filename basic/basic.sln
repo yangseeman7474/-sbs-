@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static예제", "static예�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "연산기호", "연산기호\연산기호.csproj", "{38F0195B-6293-47C0-BDA8-511B6AB30E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배열", "배열\배열.csproj", "{5CA13E5A-2ABD-4955-B36C-7C05DC8FF019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배열", "배열\배열.csproj", "{5CA13E5A-2ABD-4955-B36C-7C05DC8FF019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while 반복문", "while 반복문\while 반복문.csproj", "{B1B3C6B7-8ED5-4FB7-A52B-1C6A6F124817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "while 반복문", "while 반복문\while 반복문.csproj", "{B1B3C6B7-8ED5-4FB7-A52B-1C6A6F124817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for 반복문", "for 반복문\for 반복문.csproj", "{799D5B2D-FE49-4DCB-8140-85AC424676E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for 반복문", "for 반복문\for 반복문.csproj", "{799D5B2D-FE49-4DCB-8140-85AC424676E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for반복문 예제", "for반복문 예제\for반복문 예제.csproj", "{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for반복문 예제", "for반복문 예제\for반복문 예제.csproj", "{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

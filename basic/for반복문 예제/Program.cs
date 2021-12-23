@@ -8,13 +8,13 @@ namespace for반복문_예제
 {
     class Program
     {
-        static Orc[] arr_Orc = new Orc[10];
-        static int length = arr_Orc.Length;
         static void Main(string[] args)
         {
-            for (int i = 0; i < length ; i++)
+            Orc[] arr_Orc = new Orc[10]; //길이가10인 오크타입의 배열을 선언
+            int length = arr_Orc.Length;
+            for (int i = 0; i < length; i++)
             {
-                arr_Orc[i] = new Orc();
+                arr_Orc[i] = new Orc(); //길이가 10인 오크타입의 배열의 i 번째공간에 오크 타입 객체를 생성해서 넣어줬다.
                 arr_Orc[i].name = $"오크{i}";
 
             }
@@ -24,90 +24,100 @@ namespace for반복문_예제
             }
             for (int i = 0; i < length; i++)
             {
-                if (arr_Orc[i].isResting)
+                if (i < 5)
                 {
-                    arr_Orc[i].Jump();
+                    if (arr_Orc[i].isResting)
+
+                    {
+                        arr_Orc[i].Jump();
+                    }
+
                 }
+                else
+                {
+                    break;
+                }
+
+
             }
-
+            static bool GetRandomBool()
+            {
+                Random rand = new Random();
+                bool value = Convert.ToBoolean(rand.Next(0, 2));
+                return value;
+            }
         }
-        static bool GetRandomBool()
-        {
-            Random rand = new Random();
-            bool value = Convert.ToBoolean(rand.Next(0,2));
-            return value;
-        }
-    }
-    class Orc
-
-    {
-
-        public string name;
-
-        public float height;
-
-        public float weight;
-
-        public int age;
-
-        public char genderChar;
-
-        public bool isResting;
-
-
-
-        public void Smash()
+        class Orc
 
         {
 
-            Console.WriteLine($"{name} (이)가 휘둘렀다!");
+            public string name;
 
-        }
+            public float height;
 
-        public void Jump()
+            public float weight;
 
-        {
+            public int age;
 
-            Console.WriteLine($"{name} (이)가 점프했다!");
+            public char genderChar;
 
-        }
-
-
-
-        public void Dash()
-
-        {
-
-            Console.WriteLine($"{name} (이)가 돌진했다");
-
-        }
+            public bool isResting;
 
 
 
-        public void CheckIsRestingAndDash()
-
-        {
-
-            if (isResting)
+            public void Smash()
 
             {
 
-                Dash();
+                Console.WriteLine($"{name} (이)가 휘둘렀다!");
 
             }
 
-            else
+            public void Jump()
 
             {
 
-                Console.WriteLine($"{name} (이)는 바빠서 돌진을 할 수가 없다");
+                Console.WriteLine($"{name} (이)가 점프했다!");
 
             }
 
+
+
+            public void Dash()
+
+            {
+
+                Console.WriteLine($"{name} (이)가 돌진했다");
+
+            }
+
+
+
+            public void CheckIsRestingAndDash()
+
+            {
+
+                if (isResting)
+
+                {
+
+                    Dash();
+
+                }
+
+                else
+
+                {
+
+                    Console.WriteLine($"{name} (이)는 바빠서 돌진을 할 수가 없다");
+
+                }
+
+            }
+
+
+
         }
 
-
-
     }
-
-} 
+}

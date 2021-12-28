@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\admin\Documents\GitHub\-sbs-\basic\Eunm\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache

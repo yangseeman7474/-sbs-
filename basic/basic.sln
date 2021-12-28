@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for 반복문", "for 반복
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for반복문 예제", "for반복문 예제\for반복문 예제.csproj", "{7F846EDD-24AA-4005-86BA-E41F3FF33A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Collection.csproj", "{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Eunm\Enum.csproj", "{8E0F6B06-0400-4BC5-BCB8-B2670F08C393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40DF8E8-F0D2-4E7E-B92B-204BB40C1BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0F6B06-0400-4BC5-BCB8-B2670F08C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0F6B06-0400-4BC5-BCB8-B2670F08C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0F6B06-0400-4BC5-BCB8-B2670F08C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0F6B06-0400-4BC5-BCB8-B2670F08C393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

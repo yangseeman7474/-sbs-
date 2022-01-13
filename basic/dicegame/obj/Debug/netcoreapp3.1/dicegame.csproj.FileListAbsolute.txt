@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.exe
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.deps.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.runtimeconfig.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.dll
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.pdb
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.dll
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.pdb
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.csproj.AssemblyReference.cache

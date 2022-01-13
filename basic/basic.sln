@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate", "delegate\delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "horse racing", "horse racing\horse racing.csproj", "{EBE32572-8610-4E72-927A-0B3B6A06EF13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dicegame", "dicegame\dicegame.csproj", "{68A33BE3-F81D-44DE-B630-283F861C04BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{EBE32572-8610-4E72-927A-0B3B6A06EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE32572-8610-4E72-927A-0B3B6A06EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE32572-8610-4E72-927A-0B3B6A06EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A33BE3-F81D-44DE-B630-283F861C04BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A33BE3-F81D-44DE-B630-283F861C04BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A33BE3-F81D-44DE-B630-283F861C04BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A33BE3-F81D-44DE-B630-283F861C04BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.exe
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.deps.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.runtimeconfig.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.dll
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\bin\Debug\netcoreapp3.1\horse racing.pdb
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.dll
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.pdb
+C:\Users\User\Documents\GitHub\-sbs-\basic\horse racing\obj\Debug\netcoreapp3.1\horse racing.genruntimeconfig.cache

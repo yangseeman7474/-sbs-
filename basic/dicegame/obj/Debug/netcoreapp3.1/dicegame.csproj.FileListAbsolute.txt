@@ -12,3 +12,17 @@ C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dice
 C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.pdb
 C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.csproj.AssemblyReference.cache
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.exe
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.deps.json
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.runtimeconfig.json
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.runtimeconfig.dev.json
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.dll
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\bin\Debug\netcoreapp3.1\dicegame.pdb
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.csproj.AssemblyReference.cache
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.AssemblyInfoInputs.cache
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.AssemblyInfo.cs
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.csproj.CoreCompileInputs.cache
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.dll
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.pdb
+C:\Users\heungsub\OneDrive\문서\GitHub\-sbs-\basic\dicegame\obj\Debug\netcoreapp3.1\dicegame.genruntimeconfig.cache

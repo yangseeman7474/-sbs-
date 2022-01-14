@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj": {}
+    "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj": {
+    "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj",
+        "projectUniqueName": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj",
         "projectName": "for반복문 예제",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\for반복문 예제\\obj\\",
+        "projectPath": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\for반복문 예제\\for반복문 예제.csproj",
+        "packagesPath": "C:\\Users\\heungsub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\for반복문 예제\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heungsub\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

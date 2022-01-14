@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj": {}
+    "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj": {
+    "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj",
+        "projectUniqueName": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj",
         "projectName": "Collection",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\-sbs-\\basic\\Collection\\obj\\",
+        "projectPath": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\Collection\\Collection.csproj",
+        "packagesPath": "C:\\Users\\heungsub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heungsub\\OneDrive\\문서\\GitHub\\-sbs-\\basic\\Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heungsub\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
